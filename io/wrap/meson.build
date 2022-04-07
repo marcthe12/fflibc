@@ -1,0 +1,16 @@
+sources += files(
+'io.h',
+'fgetc.c',
+'fputc.c',
+'stdstream.c',
+'feof.c',
+'vsnprintf.c',
+'vfprintf.c',
+'setvbuf.c',
+'vfwprinf.c',
+'vswprintf.c',
+'vswscanf.c',
+'vsscanf.c',
+'vfwscanf.c',
+'vfscanf.c',
+)
